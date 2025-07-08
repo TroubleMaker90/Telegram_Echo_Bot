@@ -3,7 +3,7 @@ from aiogram.filters import Command
 from aiogram.types import Message
 
 # Вместо BOT TOKEN HERE нужно вставить токен вашего бота, полученный у @BotFather
-BOT_TOKEN = '7916660778:AAEKBOEAvHpNMp3bk8x3qldVLAlcxg36KvM'
+BOT_TOKEN = 'token'
 
 # Создаем объекты бота и диспетчера
 bot = Bot(token=BOT_TOKEN)
